@@ -1839,6 +1839,9 @@
   <data name="Schedule_SaveButton" xml:space="preserve">
     <value>Speichern</value>
   </data>
+  <data name="Schedule_Scheduler" xml:space="preserve">
+    <value>Terminplaner</value>
+  </data>
   <data name="Schedule_SelectedItems" xml:space="preserve">
     <value>Elemente ausgewählt</value>
   </data>

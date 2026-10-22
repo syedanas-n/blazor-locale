@@ -2739,6 +2739,9 @@
   <data name="Schedule_SaveButton" xml:space="preserve">
     <value>Uložit</value>
 	</data>
+  <data name="Schedule_Scheduler" xml:space="preserve">
+    <value>Plánovač</value>
+	</data>
   <data name="Schedule_SelectedItems" xml:space="preserve">
     <value>Vybrané položky</value>
 	</data>

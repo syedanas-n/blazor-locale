@@ -1863,6 +1863,9 @@
   <data name="Schedule_SaveButton" xml:space="preserve">
     <value>حفظ</value>
   </data>
+  <data name="Schedule_Scheduler" xml:space="preserve">
+    <value>المجدول</value>
+  </data>
   <data name="Schedule_SelectedItems" xml:space="preserve">
     <value>العناصر المحددة</value>
   </data>

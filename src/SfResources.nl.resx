@@ -3666,6 +3666,9 @@
   <data name="Schedule_SaveButton" xml:space="preserve">
     <value>Opslaan</value>
   </data>
+  <data name="Schedule_Scheduler" xml:space="preserve">
+    <value>Planner</value>
+  </data>
   <data name="Schedule_SelectedItems" xml:space="preserve">
     <value>Items geselecteerd</value>
   </data>

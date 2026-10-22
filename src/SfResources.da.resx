@@ -3642,6 +3642,9 @@
   <data name="Schedule_SaveButton" xml:space="preserve">
     <value>Gem</value>
   </data>
+  <data name="Schedule_Scheduler" xml:space="preserve">
+    <value>Planlægger</value>
+  </data>
   <data name="Schedule_SelectedItems" xml:space="preserve">
     <value>Valgte emner</value>
   </data>
