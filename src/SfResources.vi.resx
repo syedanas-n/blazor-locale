@@ -3660,6 +3660,9 @@
   <data name="Schedule_SaveButton" xml:space="preserve">
     <value>Tiết kiệm</value>
   </data>
+  <data name="Schedule_Scheduler" xml:space="preserve">
+    <value>Trình lập lịch</value>
+  </data>
   <data name="Schedule_SelectedItems" xml:space="preserve">
     <value>Các mục được chọn</value>
   </data>

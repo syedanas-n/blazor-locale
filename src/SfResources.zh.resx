@@ -1884,6 +1884,9 @@
   <data name="Schedule_SaveButton" xml:space="preserve">
     <value>保存</value>
   </data>
+  <data name="Schedule_Scheduler" xml:space="preserve">
+    <value>调度程序</value>
+  </data>
   <data name="Schedule_SelectedItems" xml:space="preserve">
     <value>選擇的項目</value>
   </data>

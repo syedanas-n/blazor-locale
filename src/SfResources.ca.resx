@@ -576,6 +576,9 @@
   <data name="Schedule_SaveButton" xml:space="preserve">
     <value>Desar</value>
   </data>
+  <data name="Schedule_Scheduler" xml:space="preserve">
+    <value>Planificador</value>
+  </data>
   <data name="Schedule_SelectedItems" xml:space="preserve">
     <value>Elements seleccionats</value>
   </data>

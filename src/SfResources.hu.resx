@@ -3666,6 +3666,9 @@
   <data name="Schedule_SaveButton" xml:space="preserve">
     <value>Megment</value>
   </data>
+  <data name="Schedule_Scheduler" xml:space="preserve">
+    <value>Ütemező</value>
+  </data>
   <data name="Schedule_SelectedItems" xml:space="preserve">
     <value>Kiválasztott elemek</value>
   </data>

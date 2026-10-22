@@ -3666,6 +3666,9 @@
   <data name="Schedule_SaveButton" xml:space="preserve">
     <value>Menyimpan</value>
   </data>
+  <data name="Schedule_Scheduler" xml:space="preserve">
+    <value>Penjadwal</value>
+  </data>
   <data name="Schedule_SelectedItems" xml:space="preserve">
     <value>Item dipilih</value>
   </data>

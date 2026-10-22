@@ -3612,6 +3612,9 @@
   <data name="Schedule_SaveButton" xml:space="preserve">
     <value>صرفه جویی</value>
   </data>
+  <data name="Schedule_Scheduler" xml:space="preserve">
+    <value>زمانبند</value>
+  </data>
   <data name="Schedule_SelectedItems" xml:space="preserve">
     <value>موارد انتخاب شدند</value>
   </data>

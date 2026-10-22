@@ -3666,6 +3666,9 @@
   <data name="Schedule_SaveButton" xml:space="preserve">
     <value>sauvegarder</value>
   </data>
+  <data name="Schedule_Scheduler" xml:space="preserve">
+    <value>Planificateur</value>
+  </data>
   <data name="Schedule_SelectedItems" xml:space="preserve">
     <value>Articles sélectionnés</value>
   </data>

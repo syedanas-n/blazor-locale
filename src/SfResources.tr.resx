@@ -3660,6 +3660,9 @@
   <data name="Schedule_SaveButton" xml:space="preserve">
     <value>Kayıt etmek</value>
   </data>
+  <data name="Schedule_Scheduler" xml:space="preserve">
+    <value>Zamanlayıcı</value>
+  </data>
   <data name="Schedule_SelectedItems" xml:space="preserve">
     <value>Seçilen öğeler</value>
   </data>
